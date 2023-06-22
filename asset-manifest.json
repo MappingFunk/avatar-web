@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.c5fbb62d.chunk.js": "/avatar-web/static/js/0.c5fbb62d.chunk.js",
     "static/js/0.c5fbb62d.chunk.js.map": "/avatar-web/static/js/0.c5fbb62d.chunk.js.map",
-    "main.js": "/avatar-web/static/js/main.efdbcfb8.chunk.js",
-    "main.js.map": "/avatar-web/static/js/main.efdbcfb8.chunk.js.map",
+    "main.js": "/avatar-web/static/js/main.c95be997.chunk.js",
+    "main.js.map": "/avatar-web/static/js/main.c95be997.chunk.js.map",
     "runtime-main.js": "/avatar-web/static/js/runtime-main.3f252f62.js",
     "runtime-main.js.map": "/avatar-web/static/js/runtime-main.3f252f62.js.map",
     "static/js/3.651f3ea6.chunk.js": "/avatar-web/static/js/3.651f3ea6.chunk.js",
@@ -30,6 +30,6 @@
   "entrypoints": [
     "static/js/runtime-main.3f252f62.js",
     "static/js/3.651f3ea6.chunk.js",
-    "static/js/main.efdbcfb8.chunk.js"
+    "static/js/main.c95be997.chunk.js"
   ]
 }
