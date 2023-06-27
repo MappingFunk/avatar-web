@@ -2,25 +2,25 @@
   "files": {
     "static/js/0.c5fbb62d.chunk.js": "/avatar-web/static/js/0.c5fbb62d.chunk.js",
     "static/js/0.c5fbb62d.chunk.js.map": "/avatar-web/static/js/0.c5fbb62d.chunk.js.map",
-    "main.js": "/avatar-web/static/js/main.bd11d1ca.chunk.js",
-    "main.js.map": "/avatar-web/static/js/main.bd11d1ca.chunk.js.map",
-    "runtime-main.js": "/avatar-web/static/js/runtime-main.3f252f62.js",
-    "runtime-main.js.map": "/avatar-web/static/js/runtime-main.3f252f62.js.map",
-    "static/js/3.ce8de1bf.chunk.js": "/avatar-web/static/js/3.ce8de1bf.chunk.js",
-    "static/js/3.ce8de1bf.chunk.js.map": "/avatar-web/static/js/3.ce8de1bf.chunk.js.map",
+    "main.js": "/avatar-web/static/js/main.b5664cfc.chunk.js",
+    "main.js.map": "/avatar-web/static/js/main.b5664cfc.chunk.js.map",
+    "runtime-main.js": "/avatar-web/static/js/runtime-main.d72578fc.js",
+    "runtime-main.js.map": "/avatar-web/static/js/runtime-main.d72578fc.js.map",
+    "static/js/3.19c57f71.chunk.js": "/avatar-web/static/js/3.19c57f71.chunk.js",
+    "static/js/3.19c57f71.chunk.js.map": "/avatar-web/static/js/3.19c57f71.chunk.js.map",
     "static/js/4.cde10e04.chunk.js": "/avatar-web/static/js/4.cde10e04.chunk.js",
     "static/js/4.cde10e04.chunk.js.map": "/avatar-web/static/js/4.cde10e04.chunk.js.map",
     "static/js/5.2ce5f563.chunk.js": "/avatar-web/static/js/5.2ce5f563.chunk.js",
     "static/js/5.2ce5f563.chunk.js.map": "/avatar-web/static/js/5.2ce5f563.chunk.js.map",
     "static/js/6.d89e45db.chunk.js": "/avatar-web/static/js/6.d89e45db.chunk.js",
     "static/js/6.d89e45db.chunk.js.map": "/avatar-web/static/js/6.d89e45db.chunk.js.map",
-    "static/js/7.7c33a887.chunk.js": "/avatar-web/static/js/7.7c33a887.chunk.js",
-    "static/js/7.7c33a887.chunk.js.map": "/avatar-web/static/js/7.7c33a887.chunk.js.map",
+    "static/js/7.51c7b3ca.chunk.js": "/avatar-web/static/js/7.51c7b3ca.chunk.js",
+    "static/js/7.51c7b3ca.chunk.js.map": "/avatar-web/static/js/7.51c7b3ca.chunk.js.map",
     "static/js/8.90d2812b.chunk.js": "/avatar-web/static/js/8.90d2812b.chunk.js",
     "static/js/8.90d2812b.chunk.js.map": "/avatar-web/static/js/8.90d2812b.chunk.js.map",
     "index.html": "/avatar-web/index.html",
     "static/js/0.c5fbb62d.chunk.js.LICENSE.txt": "/avatar-web/static/js/0.c5fbb62d.chunk.js.LICENSE.txt",
-    "static/js/3.ce8de1bf.chunk.js.LICENSE.txt": "/avatar-web/static/js/3.ce8de1bf.chunk.js.LICENSE.txt",
+    "static/js/3.19c57f71.chunk.js.LICENSE.txt": "/avatar-web/static/js/3.19c57f71.chunk.js.LICENSE.txt",
     "static/js/4.cde10e04.chunk.js.LICENSE.txt": "/avatar-web/static/js/4.cde10e04.chunk.js.LICENSE.txt",
     "static/js/5.2ce5f563.chunk.js.LICENSE.txt": "/avatar-web/static/js/5.2ce5f563.chunk.js.LICENSE.txt",
     "static/media/bunnybutt.25a067c1.svg": "/avatar-web/static/media/bunnybutt.25a067c1.svg",
@@ -28,8 +28,8 @@
     "static/media/bunnyhead-max.90eb2dcd.svg": "/avatar-web/static/media/bunnyhead-max.90eb2dcd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f252f62.js",
-    "static/js/3.ce8de1bf.chunk.js",
-    "static/js/main.bd11d1ca.chunk.js"
+    "static/js/runtime-main.d72578fc.js",
+    "static/js/3.19c57f71.chunk.js",
+    "static/js/main.b5664cfc.chunk.js"
   ]
 }
